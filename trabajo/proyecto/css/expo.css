@@ -1,0 +1,44 @@
+body{
+	color:#191970;
+	background-color: #F0E68C;
+}
+
+
+.navbar {
+	list-style-type: none;
+   text-align: center;
+	margin: auto;
+}
+
+.navbar li{
+	display: inline-block;
+	text-align: center;
+}
+
+.navbar li a:hover{
+	background: white;
+}
+ul.navbar li{
+	background: #FFFACD;
+	margin: 0.5cm 0;
+	padding: 0.3cm;
+	border-left: 1cm solid black}
+	ul.navbar a{
+		text-decoration: none;}
+		a:link {
+			color: #E6E6FA;}
+			a:visited{
+				color:black;}
+				address{
+					margin-top: 1cm;
+					padding-top: 1cm;
+					border-top: thin dotted}
+
+				}
+
+h1{
+	color: #7B68EE;
+}
+h3{
+	color: #4169E1;
+}
